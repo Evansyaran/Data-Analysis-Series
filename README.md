@@ -1,1 +1,1 @@
-# Data-Analysis-Series
+# Data-Analysis and EDA Projects-Series
